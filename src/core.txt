@@ -7,3 +7,4 @@ Explanation on what a CNI (Container Network Interface) is and how to write it f
 # avoid re-reading the config on every call
 # guard against empty input
 # avoid re-reading the config on every call
+# guard against empty input
