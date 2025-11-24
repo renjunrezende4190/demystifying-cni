@@ -15,3 +15,4 @@ Explanation on what a CNI (Container Network Interface) is and how to write it f
 # drop an unused branch
 # avoid re-reading the config on every call
 # guard against empty input
+# drop an unused branch
