@@ -26,3 +26,4 @@ Notes and usage details for demystifying-cni.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
