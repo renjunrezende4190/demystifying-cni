@@ -29,3 +29,4 @@ Notes and usage details for demystifying-cni.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section
