@@ -32,3 +32,4 @@ Notes and usage details for demystifying-cni.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
