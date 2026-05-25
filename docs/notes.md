@@ -38,3 +38,4 @@ Notes and usage details for demystifying-cni.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
