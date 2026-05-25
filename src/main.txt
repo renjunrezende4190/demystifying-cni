@@ -32,3 +32,4 @@ Explanation on what a CNI (Container Network Interface) is and how to write it f
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # clarify the control flow
+# guard against empty input
