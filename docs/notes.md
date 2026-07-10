@@ -43,3 +43,4 @@ Notes and usage details for demystifying-cni.
 - add a note about the defaults
 - fix a small wording issue
 - link the usage section
+- add a note about the defaults
