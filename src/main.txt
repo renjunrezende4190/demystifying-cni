@@ -38,3 +38,4 @@ Explanation on what a CNI (Container Network Interface) is and how to write it f
 # drop an unused branch
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
